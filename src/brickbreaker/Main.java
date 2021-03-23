@@ -18,6 +18,10 @@
  */
 package brickbreaker;
 
+import brickbreaker.Config;
+import brickbreaker.Level;
+import brickbreaker.LevelData;
+import brickbreaker.ui.*;
 import javafx.application.Application;
 import javafx.scene.Group;
 import javafx.scene.Scene;

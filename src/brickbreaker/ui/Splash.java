@@ -16,8 +16,10 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-package brickbreaker;
+package brickbreaker.ui;
 
+import brickbreaker.Config;
+import brickbreaker.Main;
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
 import javafx.event.ActionEvent;
@@ -131,7 +133,7 @@ public class Splash extends Parent {
         timeline.stop();
     }
 
-    Splash() {
+    public Splash() {
         state = STATE_SHOW_TITLE;
         stateArg = 0;
         initTimeline();
