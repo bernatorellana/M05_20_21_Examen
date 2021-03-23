@@ -184,6 +184,8 @@ public class LevelData {
 
     private static ObservableList<Integer> levelsOffsets;
 
+    private static int levelNumber = 0;
+    
     public static int getLevelsCount() {
         initLevelsOffsets();
         return levelsOffsets.size() - 1;
