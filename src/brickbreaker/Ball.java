@@ -53,5 +53,8 @@ public class Ball extends Parent {
         diameter = (int) imageView.getImage().getWidth() - Config.SHADOW_WIDTH;
     }
 
+    public void superDuperFunction(int duper){
+        System.out.println("This is super my friend:"+duper);
+    }
 }
 
