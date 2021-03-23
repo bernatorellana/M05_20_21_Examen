@@ -91,6 +91,7 @@ public class Level extends Parent {
 
     private void initStartingTimeline() {
         startingTimeline = new Timeline();
+        startingTimeline.autoReverseProperty();
         KeyFrame kf1 = new KeyFrame(Duration.millis(500), new EventHandler<ActionEvent>() {
             public void handle(ActionEvent event) {
                 message.setVisible(true);
