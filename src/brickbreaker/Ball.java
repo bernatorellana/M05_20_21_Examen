@@ -44,7 +44,8 @@ public class Ball extends Parent {
     }
 
     public int getDiameter() {
-        return diameter; //comentari inofensiu
+
+        return diameter+22; //comentari inofensiu
     }
 
     public void changeSize(int newSize) {
