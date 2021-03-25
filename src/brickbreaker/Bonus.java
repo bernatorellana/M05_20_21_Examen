@@ -23,6 +23,8 @@ import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 
 public class Bonus extends Parent {
+    
+    // AIXO ES UNA MODIFICACIO
 
     public static final int TYPE_SLOW = 0;
     public static final int TYPE_FAST = 1;
