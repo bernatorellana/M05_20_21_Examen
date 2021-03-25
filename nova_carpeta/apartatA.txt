@@ -1,1 +1,3 @@
 Escric el que sigui per l'apartat f) a
+
+Modifiquem el arxiu f)b
