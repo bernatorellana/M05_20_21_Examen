@@ -40,6 +40,8 @@ public class Brick extends Parent {
 
     private int type;
     private ImageView content;
+	
+	private int noServeixoPerRes;
 
     public Brick(int type) {
         content = new ImageView();
