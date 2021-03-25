@@ -47,7 +47,7 @@ public class Level extends Parent {
 
     private static final double MOB_SCALING = 1.5f;
     private static final MainFrame mainFrame = Main.getMainFrame();
-
+		int codi = 0;
     private ArrayList<Brick> bricks;
     private int brickCount;
     private ArrayList<Brick> fadeBricks;
