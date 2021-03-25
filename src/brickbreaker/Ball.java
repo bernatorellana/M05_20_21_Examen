@@ -31,6 +31,8 @@ public class Ball extends Parent {
 
     private int diameter;
     private ImageView imageView;
+    
+    private int i;
 
     public Ball() {
         imageView = new ImageView();
