@@ -18,6 +18,8 @@
  */
 package brickbreaker.utils;
 
+//modifico arxiu de coid
+
 public class Utils {
 
     private static final java.util.Random RANDOM = new java.util.Random();
