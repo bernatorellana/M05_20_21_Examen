@@ -40,6 +40,7 @@ public class Ball extends Parent {
     }
 
     public int getSize() {
+        int a = 0;
         return size;
     }
 
