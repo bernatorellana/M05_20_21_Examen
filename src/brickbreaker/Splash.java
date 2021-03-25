@@ -16,6 +16,8 @@
  * specific language governing permissions and limitations
  * under the License.
  */
+ 
+ //JOAN POL MODIFICA UN ARXIU DE CODI
 package brickbreaker;
 
 import javafx.animation.KeyFrame;
