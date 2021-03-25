@@ -26,7 +26,7 @@ public class Ball extends Parent {
     public static final int DEFAULT_SIZE = 2;
     
     public static final int MAX_SIZE = 5;
-	
+	//Variable size
     private int size;
 
     private int diameter;
