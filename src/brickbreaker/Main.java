@@ -33,6 +33,7 @@ public class Main extends Application {
     }
     
     @Override public void start(Stage stage) {
+		//Aixo fa coses
         Config.initialize();
         Group root = new Group();
         mainFrame = new MainFrame(root);
