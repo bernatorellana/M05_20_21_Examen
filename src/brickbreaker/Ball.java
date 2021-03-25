@@ -37,6 +37,7 @@ public class Ball extends Parent {
         getChildren().add(imageView);
         changeSize(DEFAULT_SIZE);
         setMouseTransparent(true);
+		int notafran=10;
     }
 
     public int getSize() {
