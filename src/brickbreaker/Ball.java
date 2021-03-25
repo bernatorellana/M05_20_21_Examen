@@ -38,7 +38,7 @@ public class Ball extends Parent {
         changeSize(DEFAULT_SIZE);
         setMouseTransparent(true);
     }
-
+	//this exam is a disaster
     public int getSize() {
         return size;
     }
